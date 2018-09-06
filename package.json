@@ -1,0 +1,17 @@
+{
+  "name": "trollbot",
+  "version": "0.0.1",
+  "description": "discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Veno",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.2",
+    "relevant-urban": "^2.0.0",
+    "urban": "^0.3.1"
+  }
+}
